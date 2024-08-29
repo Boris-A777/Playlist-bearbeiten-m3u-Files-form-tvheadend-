@@ -56,3 +56,14 @@ Hinweis:
 
 Sicherstellen, dass die M3U-Dateien korrekt formatiert sind, um die beste Leistung der Anwendung zu gewährleisten.
 Diese Beschreibung bietet einen Überblick über die Funktionen und die Verwendung deines M3U Playlist Editors. Sie ist ideal für eine README-Datei auf GitHub oder für die Dokumentation deines Projekts.
+
+
+Anleitung zur Verwendung des Python-Skripts und zur Verwaltung auf GitHub
+1. Python unter Windows installieren
+Python herunterladen:
+https://www.python.org/downloads/
+
+Module installieren:
+Öffne die Eingabeaufforderung (CMD).
+pip install tk
+
