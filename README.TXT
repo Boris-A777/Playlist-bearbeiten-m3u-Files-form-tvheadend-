@@ -6,31 +6,30 @@ Der M3U Playlist Editor ist eine grafische Benutzeroberfläche (GUI) für die Be
 Funktionen:
 
 Datei öffnen:
-
 Öffnet eine M3U-Datei zur Bearbeitung über einen Dateiauswahldialog. Die Playlist wird in einer Listbox angezeigt.
+
 Datei speichern:
-
 Speichert die bearbeitete M3U-Datei über einen Speichern-Dialog.
+
 Kanäle entfernen:
-
 Ermöglicht das Entfernen von ausgewählten Kanälen. Die Kanäle werden aus der Listbox entfernt und die Datei entsprechend aktualisiert.
+
 Kanäle sortieren:
-
 Sortiert die Kanäle alphabetisch nach ihrem Namen. Die Header-Zeile #EXTM3U wird beim Sortieren ignoriert und bleibt immer an erster Stelle.
+
 Kanal hinzufügen:
-
 Öffnet ein Dialogfenster, in dem ein neuer Kanal mit URL und Namen hinzugefügt werden kann.
+
 Kanal bearbeiten:
-
 Ermöglicht das Bearbeiten der Namen von ausgewählten Kanälen.
+
 Manuelles Sortieren:
-
 Öffnet ein neues Fenster, in dem Kanäle per Drag-and-Drop oder mit den Pfeiltasten nach oben und unten verschoben werden können. Die Änderungen werden auf die ursprüngliche Playlist angewendet, wenn der Benutzer auf „Übernehmen“ klickt.
+
 Kanäle automatisch auswählen:
-
 Wählt alle Kanäle aus, deren Namen nicht „HD“ enthalten, um sie bei weiteren Aktionen wie dem Entfernen oder Bearbeiten gezielt auswählen zu können.
-Technische Details:
 
+Technische Details:
 Modul: tkinter für die GUI
 Dateiformat: M3U
 Features:
@@ -55,8 +54,6 @@ Klicken Sie auf „Sort Channels“ und verschieben Sie Kanäle nach Bedarf im n
 Hinweis:
 
 Sicherstellen, dass die M3U-Dateien korrekt formatiert sind, um die beste Leistung der Anwendung zu gewährleisten.
-Diese Beschreibung bietet einen Überblick über die Funktionen und die Verwendung deines M3U Playlist Editors. Sie ist ideal für eine README-Datei auf GitHub oder für die Dokumentation deines Projekts.
-
 
 Anleitung zur Verwendung des Python-Skripts und zur Verwaltung auf GitHub
 1. Python unter Windows installieren
