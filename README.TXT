@@ -36,13 +36,12 @@ Features:
 GUI für Dateiverwaltung und -bearbeitung
 Unterstützung für die Sortierung und Bearbeitung von Kanälen
 Drag-and-Drop-Unterstützung für manuelles Sortieren
+
 Installation:
-
 Um dieses Skript auszuführen, müssen folgende Python-Module installiert sein:
-
 tkinter (ist standardmäßig in Python enthalten)
-Verwendung:
 
+Verwendung:
 Starten Sie das Skript: Führen Sie das Python-Skript aus, um die GUI-Anwendung zu starten.
 Verwenden Sie die Buttons:
 Klicken Sie auf „Open M3U“, um eine M3U-Datei zu öffnen.
@@ -51,8 +50,8 @@ Verwenden Sie „Remove Selected“, um ausgewählte Kanäle zu entfernen.
 Verwenden Sie „Sort Channels“, um die Kanäle alphabetisch zu sortieren.
 Fügen Sie neue Kanäle hinzu oder bearbeiten Sie bestehende Kanäle über die entsprechenden Buttons.
 Klicken Sie auf „Sort Channels“ und verschieben Sie Kanäle nach Bedarf im neuen Fenster.
-Hinweis:
 
+Hinweis:
 Sicherstellen, dass die M3U-Dateien korrekt formatiert sind, um die beste Leistung der Anwendung zu gewährleisten.
 
 Anleitung zur Verwendung des Python-Skripts und zur Verwaltung auf GitHub
